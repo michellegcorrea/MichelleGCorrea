@@ -16,10 +16,10 @@ SQL<br />
 Oracle<br />
 
 🤖 Testes Automatizados<br />
-Robot Framework - Basico<br />
+<br />
 
 🔌 Testes de API<br />
-Postman<br />
+<br />
 
 🚀  Ferramentas<br />
 Jira<br />
