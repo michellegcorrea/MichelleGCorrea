@@ -47,6 +47,7 @@ Agile, Scrum, Kanban e Cascata<br />
 
 🎓 Formação
 🎓 ✍️ Pós graduação: Engenharia de software com ênfase em qualidade e teste de software<br />
+🎓 ✍️ Pós graduação: Gestão de Produtos - Em andamento<br />
 
 📜 Certificações<br />
 
